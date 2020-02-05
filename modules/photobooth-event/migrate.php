@@ -6,8 +6,7 @@ return [
             'event' => [
                 'type' => 'INT',
                 'attrs' => [
-                	'unsigned' => true,
-                	'null' => false
+                	'unsigned' => true
                 ],
                 'index' => 4500
             ]
